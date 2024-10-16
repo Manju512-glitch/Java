@@ -1,0 +1,10 @@
+import java.util.*;
+public class Main{
+public static void main(string args[])
+{
+  Scanner sc = new Scanner(system.in)
+  int n =sc.nextInt();
+  int result = (0*OF & a)<<4 | (0*F0 & a)>>4;
+  System.out.println(result);
+}
+}
